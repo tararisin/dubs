@@ -1,0 +1,47 @@
+
+body {
+    display: inline;
+    margin-top: 0px;
+    background-color: black;
+}
+img {
+    /* position: absolute; */
+    float: left;
+    opacity: .7;
+
+}
+
+div {
+  opacity: .2;
+  padding-top: 200px;
+
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    margin: 56px 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 225px;
+   
+  }
+  
+  li {
+      
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+    margin-block: inherit;
+  }
